@@ -26,14 +26,15 @@ img {
 }
 
 p {
-        margin: 16px 16px 0px 16px;
-        font-family: "Outfit", sans-serif;
+    margin: 16px 16px 0px 16px;
+    font-family: "Outfit", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
     color: hsl(216, 15%, 48%);
     width: 256px;
     height: 63px;
+    font-size: 15px;
 }
 
 h2 {
@@ -43,4 +44,5 @@ h2 {
   font-weight: 700;
   font-style: normal;
 }
+
 
